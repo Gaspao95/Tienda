@@ -19,7 +19,9 @@ const Navbar = () => {
                     <a href="">Memorias</a>
                 </nav>
                 <section class="cart">
-                    <a href=""><CartWidget /></a>
+                   
+              <a href=""><CartWidget /></a>
+              
                 </section>
             </div>
         </>
